@@ -8,26 +8,30 @@ body {
 header {
   text-align: center;
   background-color: #333;
-  color: #13CF67;
+  color: pink;
   padding: 20px;
 }
 
 .about {
   background-color: #e3f2fd;
+  color: green;
   padding: 20px;
 }
 
 .skills {
   background-color: #ffe0b2;
+  color: blue;
   padding: 20px;
 }
 
 .projects {
   background-color: #c8e6c9;
+  color: red;
   padding: 20px;
 }
 
 .contact {
   background-color: #f8bbd0;
+  color: brown;
   padding: 20px;
 }
