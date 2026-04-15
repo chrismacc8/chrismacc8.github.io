@@ -36,3 +36,16 @@ a {
     text-align: center;
     margin: 15px;
 }
+
+body {
+    background: lightgray;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    text-align: center;
+}
+
+.projects {
+    text-align: center;
+}
