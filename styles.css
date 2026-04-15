@@ -7,3 +7,32 @@ p {
 .center {
   text-align: center;   color: green;
 }
+
+a {
+    text-decoration: none;
+    color: purple;
+}
+
+.project {
+    width: 320px;
+    margin: 20px;
+    padding: 15px;
+    background: white;
+    border-radius: 10px;
+    display: inline-block;
+    vertical-align: top;
+    text-align: center;
+}
+
+.project img {
+    width: 300px;
+    height: 300px;
+    margin: 10px auto;
+    border: 2px solid rgb(126, 14, 201);
+    display: block;
+}
+
+.project p {
+    text-align: center;
+    margin: 15px;
+}
